@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="758.305" height="636.293" viewBox="0 0 758.305 636.293">
+  <defs>
+    <filter id="Rectangle_8244" x="0" y="92.128" width="354.372" height="232.287" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8244-2" x="390.367" y="46.158" width="354.372" height="232.287" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8244-3" x="403.934" y="385.281" width="354.372" height="232.287" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8244-4" x="18.086" y="347.6" width="354.372" height="232.287" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_16908" data-name="Group 16908" transform="translate(-237 -1232.688)">
+    <g id="Rectangle_8268" data-name="Rectangle 8268" transform="translate(295.707 1523) rotate(-40)" fill="none" stroke="#27ac88" stroke-width="4" stroke-dasharray="20">
+      <rect width="451.646" height="451.646" rx="80" stroke="none"/>
+      <rect x="2" y="2" width="447.646" height="447.646" rx="78" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="233.618" cy="233.618" rx="233.618" ry="233.618" transform="translate(384.012 1316.585)" fill="none"/>
+    <g id="Group_160" data-name="Group 160" transform="translate(277 1364.815)">
+      <g transform="matrix(1, 0, 0, 1, -40, -132.13)" filter="url(#Rectangle_8244)">
+        <rect id="Rectangle_8244-5" data-name="Rectangle 8244" width="234.372" height="112.287" rx="10" transform="translate(40 132.13)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_161" data-name="Group 161" transform="translate(667.367 1318.846)">
+      <g transform="matrix(1, 0, 0, 1, -430.37, -86.16)" filter="url(#Rectangle_8244-2)">
+        <rect id="Rectangle_8244-6" data-name="Rectangle 8244" width="234.372" height="112.287" rx="10" transform="translate(430.37 86.16)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_158" data-name="Group 158" transform="translate(680.934 1657.969)">
+      <g transform="matrix(1, 0, 0, 1, -443.93, -425.28)" filter="url(#Rectangle_8244-3)">
+        <rect id="Rectangle_8244-7" data-name="Rectangle 8244" width="234.372" height="112.287" rx="10" transform="translate(443.93 425.28)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_159" data-name="Group 159" transform="translate(295.086 1620.288)">
+      <g transform="matrix(1, 0, 0, 1, -58.09, -387.6)" filter="url(#Rectangle_8244-4)">
+        <rect id="Rectangle_8244-8" data-name="Rectangle 8244" width="234.372" height="112.287" rx="10" transform="translate(58.09 387.6)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Community" transform="translate(501.566 1561.589)" fill="#464646" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Community</tspan></text>
+    <text id="Investors" transform="translate(410.781 1709.229)" fill="#464646" font-size="22" font-family="Poppins-Regular, Poppins"><tspan x="-49" y="0">Investors</tspan></text>
+    <text id="_3082" data-name="3082" transform="translate(410.592 1664.606)" fill="#132a13" font-size="29" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-35" y="0">3082</tspan></text>
+    <text id="Cities" transform="translate(782.902 1407.598)" fill="#464646" font-size="22" font-family="Poppins-Regular, Poppins"><tspan x="-30" y="0">Cities</tspan></text>
+    <text id="_25" data-name="25" transform="translate(784.467 1362.976)" fill="#132a13" font-size="29" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-17" y="0">25</tspan></text>
+    <text id="Live_Deals" data-name="Live Deals" transform="translate(394.303 1453.568)" fill="#464646" font-size="22" font-family="Poppins-Regular, Poppins"><tspan x="-53" y="0">Live Deals</tspan></text>
+    <text id="_12" data-name="12" transform="translate(394.998 1408.945)" fill="#132a13" font-size="29" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-13" y="0">12</tspan></text>
+    <text id="Startups" transform="translate(796.641 1746.721)" fill="#464646" font-size="22" font-family="Poppins-Regular, Poppins"><tspan x="-46" y="0">Startups</tspan></text>
+    <text id="_963" data-name="963" transform="translate(797.234 1702.099)" fill="#132a13" font-size="29" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-26" y="0">963</tspan></text>
+  </g>
+</svg>
