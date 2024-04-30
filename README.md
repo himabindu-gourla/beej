@@ -2,6 +2,9 @@
 
 #### The Beej Network Portal is a dynamic platform showcasing the essence and achievements of the Beej Network community. Through sections like Featured Founders, Events, FAQ, and Activities, users can explore its vibrant ecosystem. Responsive charts provide visual insights, while user-friendly design ensures seamless navigation across devices. Join the Beej Network and unlock opportunities for innovation, collaboration, and growth.
 
+
+### GITHUB Link : https://himabindu-gourla.github.io/beej/
+
 ### Homepage
 ![beej project - Google Chrome 4_30_2024 10_46_30 AM](https://github.com/himabindu-gourla/beej/assets/160701689/2c90c528-0484-4d38-ab2d-19bf95bd07fe)
 
